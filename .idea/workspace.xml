@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7355bb02-634f-495f-a44a-59f19a1f711c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/import/02/02b56fe63.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw-assets/Texture/dingzi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw-assets/audio/dx_SFT_F009_Act01-1.mp3" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/raw-assets/Texture/bj.jpg" afterPath="$PROJECT_DIR$/res/raw-assets/Texture/bj.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/raw-assets/Texture/hand.png" afterPath="$PROJECT_DIR$/res/raw-assets/Texture/hand.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/raw-assets/Texture/lidu_1.png" afterPath="$PROJECT_DIR$/res/raw-assets/Texture/lidu_1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/raw-assets/Texture/lidu_2.png" afterPath="$PROJECT_DIR$/res/raw-assets/Texture/lidu_2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/raw-assets/Texture/star_da.png" afterPath="$PROJECT_DIR$/res/raw-assets/Texture/star_da.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/raw-assets/Texture/star_xiao.png" afterPath="$PROJECT_DIR$/res/raw-assets/Texture/star_xiao.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/raw-assets/Texture/飞马蹄.png" afterPath="$PROJECT_DIR$/res/raw-assets/Texture/飞马蹄.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocos2d-js-min.js" afterPath="$PROJECT_DIR$/cocos2d-js-min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/project.js" afterPath="$PROJECT_DIR$/src/project.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/settings.js" afterPath="$PROJECT_DIR$/src/settings.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,8 +20,8 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
-              <caret line="49" column="22" lean-forward="true" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+            <state relative-caret-position="833">
+              <caret line="49" column="22" lean-forward="false" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -42,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="37">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -73,8 +62,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1077" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="150" />
     <option name="y" value="23" />
     <option name="width" value="1920" />
     <option name="height" value="981" />
@@ -94,7 +83,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,6 +94,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -144,16 +133,16 @@
       <workItem from="1516781404371" duration="52000" />
       <workItem from="1516781505511" duration="4000" />
       <workItem from="1516781577440" duration="312000" />
-      <workItem from="1516783958102" duration="45000" />
+      <workItem from="1516783958102" duration="134000" />
+      <workItem from="1516929450399" duration="10000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="437000" />
+    <option name="totallyTimeSpent" value="536000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1077" y="23" width="1920" height="981" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1920" height="981" extended-state="6" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960506" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -184,6 +173,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -250,8 +255,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="49" column="22" lean-forward="true" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+        <state relative-caret-position="833">
+          <caret line="49" column="22" lean-forward="false" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -259,7 +264,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="37">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
